@@ -1,0 +1,238 @@
+.logo{
+    width: 110px;
+    margin-left: 150px;
+    margin-right: 100px;
+}
+
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color: orange;
+}
+.form-control{
+    width: 500px;
+}
+.btn{
+    width: 100px;
+    background-color: rgb(246,139,30);
+    color: white;
+}
+.btn:hover{
+    background-color: rgb(215, 125, 34);
+    color: white;
+}
+.fa-solid{
+    margin-right: 7px;
+    margin-left: 8px;
+}
+.fa-solid:hover{
+    color: orange !important;
+}
+.navbar{
+    margin-top: 10px;
+    height: 70px;
+    background-color: white;
+    box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.leftcontainer{
+    background-color: white;
+    box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 220px;
+    height: 350px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-left: 150px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.leftcontainer:hover{
+    width: 230px;
+    
+}
+#carouselExampleInterval{
+    margin-top: 10px;
+    width: 650px;
+}
+.rightcontainer{
+    margin-top: 10px;
+    margin-left: 10px;
+    display: grid;
+    gap: 5px;
+}
+.rightcontainerimg{
+    width: 200px;
+    border-radius: 5px;
+}
+.d-block{
+    width: 650px !important;
+    border-radius: 5px;
+}
+.firsth6{
+    color: black;
+    text-decoration: none;
+   
+}
+.firsth6:hover{
+    color: orange;
+}
+.firstcontainer{
+    display: flex;
+    margin-left: 50px;
+}
+.firstcontainerh6{
+    font-weight: 300;
+}
+.secondcontainer{
+    background-color: white;
+    box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 200px;
+    margin-top: 20px;
+    display: grid;
+    gap: 30px;
+    width: 1110px;
+    padding-top: 10px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.topcontainer{
+    display: flex;
+}
+.topcontainer1{
+    text-align: center;
+}
+.topcontainerimg{
+    width: 170px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.topcontainerimg:hover{
+    width: 180px;
+}
+.thirdcontainer{
+    width: 1110px;
+    background-color: white;
+    margin-left: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.thirdcontainerlink{
+    color: black;
+}
+.thirdcontainerlink:hover{
+    color: black;
+}
+.thirdcontainerh6{
+    font-weight: 300;
+}
+.fourthcontainer{
+    display: flex;
+    gap: 200px;
+    width: 100%;
+    color: white;
+    margin-top: 70px;
+    padding-left: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(49,49,51);
+}
+.fourthcontainer2{
+    display: flex;
+}
+.footerimg1{
+    width: 150px;
+}
+.footerimg2{
+    width: 50px;
+    margin-right: 10px;
+}
+#emailinput{
+    width: 300px;
+    margin-right: 5px;
+    height: 45px;
+    border-radius: 5px;
+    border: 2px solid orange;
+}
+
+.fourthcontainerbtn{
+    width: 80px;
+    height: 45px;
+    border-radius: 5px;
+    border: 1px solid white;
+    background-color:  rgb(49,49,51);
+    color: white;
+
+}
+.fifthcontainer{
+    background-color: rgb(83,83,87);
+    color: white;
+    gap: 90px;
+    padding-left: 80px;
+    padding-top: 20px;
+    display: flex;
+}
+.fifthcontainerlink{
+    text-decoration: none;
+    color: white;
+}
+.fifthcontainerlink:hover{
+    color: white;
+}
+.fifthcontainerh6{
+    font-weight: 200;
+}
+.fa-brands{
+    
+    margin-left: 50px !important;
+    margin-top: 20px !important;
+}
+.fa-brands:hover{
+    color: orange !important;
+}
+.signincontainer{
+    width: 500px;
+   text-align: center;
+   padding-top: 80px;
+   margin-left: 500px;
+}
+.jumaitoplogo{
+    width: 60px;
+    margin-bottom: 20px;
+}
+.signincontainerh4{
+    margin-bottom: 15px;
+}
+#signininput{
+    width: 400px;
+    height: 50px;
+    border: 1px solid rgb(121, 117, 117);
+    border-radius: 5px;
+    margin-bottom: 30px;
+    margin-top: 15px;
+}
+.signinbtn{
+    width: 400px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: orange;
+    border: none;
+    color: white;
+    margin-bottom: 60px;
+}
+.signinfb{
+    width: 400px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(49, 102, 238);
+    border: none;
+    color: white;
+    margin-bottom: 40px;
+    
+}
+.jumaibottomlogo{
+    width: 100px;
+    margin-top: 20px;
+}
